@@ -1,1 +1,2 @@
-# kernel-ood-generalization
+# Code for Out-of-Distribution Generalization in Kernel Regression
+
